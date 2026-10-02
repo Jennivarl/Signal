@@ -1,0 +1,31 @@
+{
+  "_id": "genlayer-js",
+  "name": "genlayer-js",
+  "dist-tags": {
+    "latest": "1.1.8",
+    "rc": "2.0.0-rc.1"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/genlayerlabs/genlayer-js#readme",
+  "description": "GenLayer JavaScript SDK",
+  "maintainers": [
+    {
+      "name": "jmlago",
+      "email": "josemlagoalonso@gmail.com"
+    }
+  ],
+  "time": {
+    "created": "2024-09-30T12:11:26.060Z",
+    "modified": "2026-09-03T08:36:47.718Z"
+  },
+  "versions": {
+    "1.1.8": {
+      "name": "genlayer-js",
+      "version": "1.1.8"
+    },
+    "2.0.0-rc.1": {
+      "name": "genlayer-js",
+      "version": "2.0.0-rc.1"
+    }
+  }
+}
