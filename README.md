@@ -23,6 +23,7 @@ No model is involved anywhere. Validators fetch a document and compare strings.
 | Tests | 128, `python -m pytest -q` |
 | Deployed source | byte-identical to [`contracts/signal_bundle.py`](contracts/signal_bundle.py), sha256 `8f74fb87...`, checked by `node deploy/verify.mjs` |
 | A contract that uses it | [WARRANT](https://github.com/Jennivarl/Warrant), which pays out on a reading |
+| Live page | [jennivarl.github.io/Warrant](https://jennivarl.github.io/Warrant/), which reads this contract in your browser |
 
 ---
 
